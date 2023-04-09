@@ -1,4 +1,4 @@
-# H1 Movie App
+#H1Movie App
 This is a movie app that allows users to search for movies and view details such as the title, release year, and plot. The app uses the Open Movie Database (OMDb) API to retrieve movie data.
 
 ## H2 Getting Started
