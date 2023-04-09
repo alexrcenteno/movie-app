@@ -22,7 +22,7 @@ To search for a movie, enter the title in the search bar and click the "Search" 
 
 To view details about a movie, click on the movie in the search results. The app will display the movie's title, release year, plot, and other details.
 
-#### Code Structure
+### Code Structure
 The code for the app is structured as follows:
 
 src/App.js: The main component of the app. Renders the search bar and movie details components.
@@ -31,5 +31,5 @@ src/components/MovieDetails.js: Renders the details of a selected movie.
 src/utils/api.js: Contains the functions for fetching movie data from the OMDb API.
 The app was built using React and styled with CSS. The axios library was used to make HTTP requests to the API.
 
-##### License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
